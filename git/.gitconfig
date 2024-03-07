@@ -1,0 +1,9 @@
+[credential "https://github.com"]
+	helper = !/usr/bin/gh auth git-credential
+[user]
+	email = 45142012+troyvassalotti@users.noreply.github.com
+	name = Troy Vassalotti
+[core]
+	autocrlf = input
+[init]
+	defaultBranch = main
