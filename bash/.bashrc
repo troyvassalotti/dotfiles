@@ -125,9 +125,6 @@ export PATH="$PNPM_HOME:$PATH"
 export PATH=${PATH}:~/.config/composer/vendor/bin
 # composer end
 
-# default editor
-export VISUAL="nvim"
-
 # Deno
 export DENO_INSTALL="/home/troy/.deno"
 export PATH="$DENO_INSTALL/bin:$PATH"
