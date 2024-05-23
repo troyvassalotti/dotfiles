@@ -6,5 +6,7 @@ alias nvim='~/Applications/nvim.appimage'
 
 # I don't remember what this was for but it was clearly useful enough to make a function out of it
 convert_m4a() {
-    for f in $3*.$1; do ffmpeg -i "$f" "$4${f%.m4a}.$2"; done
+	for f in $3*.$1; do ffmpeg -i "$f" "$4${f%.m4a}.$2"; done
 }
+
+alias tweet='cd Projects/troyv.dev && npm run tweet'
