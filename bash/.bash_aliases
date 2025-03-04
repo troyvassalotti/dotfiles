@@ -13,3 +13,6 @@ alias tweet='cd Projects/troyv.dev && npm run tweet'
 
 # you might want to sudo reboot after this one
 alias firmup='sudo fwupdmgr refresh && sudo fwupdmgr get-updates && sudo fwupdmgr update'
+
+# Clone Hero
+alias clonehero='~/Games/clonehero-linux/clonehero'

@@ -20,8 +20,9 @@
     "lazyvim.plugins.extras.util.gitui",
     "lazyvim.plugins.extras.util.mini-hipatterns"
   ],
+  "install_version": 7,
   "news": {
-    "NEWS.md": "6520"
+    "NEWS.md": "10960"
   },
-  "version": 6
+  "version": 8
 }
